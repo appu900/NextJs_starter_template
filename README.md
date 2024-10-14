@@ -1,0 +1,1 @@
+# NextJs_starter_template
